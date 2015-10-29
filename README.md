@@ -1,3 +1,3 @@
 # testing
 
-This is the not the master branch, its feature1
+This is the master branch
